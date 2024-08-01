@@ -1,4 +1,4 @@
-# UniFi firewall/traffic rule management for Home Assistant
+# UniFi firewall/traffic rules for Home Assistant
 
 ## About this repo
 

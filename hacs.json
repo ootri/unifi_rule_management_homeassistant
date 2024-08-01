@@ -2,5 +2,6 @@
     "name": "UniFi Rule Management",
     "render_readme": true,
     "country": "US",
-    "homeassistant": "2023.3.0"
+    "homeassistant": "2023.3.0",
+    "domains": ["unifi"]
 }

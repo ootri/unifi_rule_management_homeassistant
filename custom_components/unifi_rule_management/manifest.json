@@ -5,6 +5,7 @@
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/ootri/unifi_rule_management_homeassistant",
+  "integration_type": "hub",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/ootri/unifi_rule_management_homeassistant/issues",
   "requirements": ["aiohttp"],

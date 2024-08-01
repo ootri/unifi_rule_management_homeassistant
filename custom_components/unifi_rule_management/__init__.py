@@ -10,7 +10,7 @@ from homeassistant.core import HomeAssistant
 import homeassistant.helpers.config_validation as cv
 import voluptuous as vol
 
-_LOGGER = logging.getLogger(__name__)
+# _LOGGER = logging.getLogger(__name__)
 
 DOMAIN = "unifi_rule_management"
 PLATFORMS: list[Platform] = [Platform.SWITCH]

@@ -4,7 +4,7 @@
 
 This custom integration for Home Assistant allows you to manage your UniFi firewall and traffic rules directly from your Home Assistant dashboard. It automatically creates switches for all user-created firewall and traffic rules, enabling you to easily toggle them on and off.
 
-My wife wanted a physical switch to block an app on our TV. The current UniFi integration with Home Assistant does (yet?) import firewall and traffic rules.
+My wife wanted a physical switch to block an app on our TV. The current UniFi integration with Home Assistant doesn't (yet?) import firewall and traffic rules.
 
 With this integration, you can:
 - View the status of all your UniFi firewall and traffic rules

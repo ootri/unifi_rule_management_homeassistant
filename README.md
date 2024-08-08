@@ -1,5 +1,9 @@
 # UniFi firewall/traffic rules for Home Assistant
 
+
+:warning: **This component is archived**: Less than a week after submitting to GitHub, the official UniFi component added support for basically the same thing. Although this repository can handle firewall rules too, I think the official component will probably add those at some point. There's a slight difference between how the switch toggles the rules; this component changes the "Allow/Block" setting, but the official component will pause/unpause the rule.
+
+
 ## About this repo
 
 This custom integration for Home Assistant allows you to manage your UniFi firewall and traffic rules directly from your Home Assistant dashboard. It automatically creates switches for all user-created firewall and traffic rules, enabling you to easily toggle them on and off.
